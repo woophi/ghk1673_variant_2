@@ -14,7 +14,7 @@ export const sendDataToGA = async (items: string[]) => {
       {
         redirect: 'follow',
         method: 'POST',
-        body: JSON.stringify({ date, cart: items.join(';') }),
+        body: JSON.stringify({ date, cart: items.join(';'), variant: 'variant_2' }),
         headers: {
           'Content-Type': 'text/plain;charset=utf-8',
         },
