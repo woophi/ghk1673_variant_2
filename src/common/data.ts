@@ -167,7 +167,7 @@ export const data = [
   {
     logo: lavLogo,
     title: 'Яндекс.Лавка',
-    category: 'Продукты с доствкой',
+    category: 'Продукты с доставкой',
     subcategory: 'До 29.02.2024',
     percentage: '15%',
     imgs: [lav1, lav2, lav3],
@@ -178,7 +178,7 @@ export const data = [
   {
     logo: lvlLogo,
     title: 'Level Kitchen',
-    category: 'Продукты с доствкой',
+    category: 'Продукты с доставкой',
     subcategory: 'До 30.04.2024',
     percentage: '15%',
     imgs: [lvl1, lvl2, lvl3],
